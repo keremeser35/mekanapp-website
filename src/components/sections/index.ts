@@ -1,0 +1,6 @@
+export { default as HeroSection } from './HeroSection'
+export { default as SolutionsSection } from './SolutionsSection'
+export { default as FeaturesSection } from './FeaturesSection'
+export { default as ProductsSection } from './ProductsSection'
+export { default as TestimonialsSection } from './TestimonialsSection'
+export { default as CTASection } from './CTASection'

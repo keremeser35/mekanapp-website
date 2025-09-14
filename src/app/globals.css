@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --foreground: #374151;
+  --gray-900: #111827;
+  --gray-700: #374151;
+  --primary-600: #2563eb;
+}
+
+/* Dark mode disabled for consistent branding */
+
+body {
+  background: #ffffff;
+  color: #374151;
+  font-family: 'Inter', system-ui, sans-serif;
+}
+
+/* Design Guide Colors */
+.text-design-gray-700 {
+  color: #374151;
+}
+
+.text-design-gray-900 {
+  color: #111827;
+}
